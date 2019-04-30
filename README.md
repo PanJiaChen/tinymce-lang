@@ -7,9 +7,8 @@ Currently Tinymce's lang does not have cdn. So create an npm package, let lang s
 All cnd in [jsdelivr](https://www.jsdelivr.com/package/npm/tinymce-lang?path=langs)
 
 - [zh_CN](https://cdn.jsdelivr.net/npm/tinymce-lang/langs/zh_CN.js)
-- [js](https://cdn.jsdelivr.net/npm/tinymce-lang/langs/ja.js)
-
-.....
+- [ja](https://cdn.jsdelivr.net/npm/tinymce-lang/langs/ja.js)
+- ...
 
 ```js
 tinymce.init({
